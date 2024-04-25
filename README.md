@@ -4,6 +4,7 @@
 - [Pedro Henrique Hahn](https://github.com/pedrohahn)
 - [Pedro Henrique Guedes](https://github.com/Pedroguedez)
 - [Charles Clezar](https://github.com/CharlesClezar)
+- [Oziel Silveira](https://github.com/ozielsilveira)
 
 ### Dataset
 https://www.tablab.app/view/parquet?datatable-source=demo-house-price
