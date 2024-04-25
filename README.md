@@ -5,6 +5,9 @@
 - [Pedro Henrique Guedes](https://github.com/Pedroguedez)
 - [Charles Clezar](https://github.com/CharlesClezar)
 
+### Dataset
+https://www.tablab.app/view/parquet?datatable-source=demo-house-price
+
 ### Instalando as dependências
 
 ```bash
@@ -20,4 +23,10 @@ docker pull jupyter/pyspark-notebook
 ```
 ```bash
 docker run -p 8888:8888 jupyter/pyspark-notebook
-````
+```
+
+### Rodando o projeto
+No Prompt de Comando, dar o seguinte comando
+```bash
+python -m notebook
+```
